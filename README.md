@@ -4,6 +4,6 @@ O script deve consumir uma API REST do IBGE e com sua resposta realizar uma conv
 Endpoint: https://servicodados.ibge.gov.br/api/v1/localidades/estados/
 
 Requisitos
- O arquivo CSV deve ser criado com o separador Pipe (|).
- A quantidade de estados deve ser um número inteiro.
-Fique a vontade para clonar este repositório.
+O arquivo CSV deve ser criado com o separador Pipe (|).
+A quantidade de estados deve ser um número inteiro.
+
