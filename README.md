@@ -5,5 +5,6 @@ Endpoint: https://servicodados.ibge.gov.br/api/v1/localidades/estados/
 
 Requisitos
 O arquivo CSV deve ser criado com o separador Pipe (|).
+
 A quantidade de estados deve ser um número inteiro.
 
